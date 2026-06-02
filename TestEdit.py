@@ -2,7 +2,7 @@
 
 def vote_menu():
     print("---------------------")
-    print("VOTE MENU")
+    print("This is the updated test version")
     print("---------------------")
     print("v: Vote")
     print("x: Exit")
